@@ -73,7 +73,7 @@ export default {
   .BS {
     position: absolute;
     overflow: hidden;
-    top: 49px;
+    top: 0px;
     bottom: 0px;
     left: 0;
     right: 0;
